@@ -1,0 +1,5 @@
+name: Junkyard
+main: com.hypothete.Junkyard.Junkyard
+version: 0.2
+load: startup
+
